@@ -1,0 +1,19 @@
+# iKuai Router Management Skill - Python Dependencies
+
+# HTTP library for making API requests
+requests>=2.31.0
+
+# Optional: For enhanced logging
+colorlog>=6.8.0
+
+# Optional: For data validation
+pydantic>=2.5.0
+
+# Optional: For async operations
+aiohttp>=3.9.0
+
+# Optional: For better datetime handling
+python-dateutil>=2.8.2
+
+# Optional: For configuration management
+python-dotenv>=1.0.0
